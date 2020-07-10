@@ -10,6 +10,9 @@ you can download from the following link:
 https://pypi.org/project/PyAudio/
 download the file according to the version of your python and paste the file in the pip folder of python and the copy the name of the file and in cmd 
 enter pip install and paste the file name
-then pyaudio is installed successfully 
+then pyaudio is installed successfully  
+In line number 124 and 126
+enter the emailid and password for sending email id
+we have to generaye password from 2step verification for sending email
 
 Youtube link to know how to reun the code: https://youtu.be/DYsZEM0SLPE
