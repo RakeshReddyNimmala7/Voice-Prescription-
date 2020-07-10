@@ -1,0 +1,15 @@
+This is a voice based prescription model in which prescription is formatted by the dictation of the doctor and sends to the patient phone via email address
+I have written the code using python
+To run the code we need the following packages:
+1)tkinter
+2)smtplib
+3)speech_recognition 
+install them using pip command
+We also need pyaudio file for executing and running the code
+you can download from the following link:
+https://pypi.org/project/PyAudio/
+download the file according to the version of your python and paste the file in the pip folder of python and the copy the name of the file and in cmd 
+enter pip install and paste the file name
+then pyaudio is installed successfully 
+
+Youtube link to know how to reun the code: https://youtu.be/DYsZEM0SLPE
